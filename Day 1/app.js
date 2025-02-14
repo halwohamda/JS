@@ -1,6 +1,6 @@
-console.log(`My name is hamda`);
-console.log(`i like money`);
+// console.log(`My name is hamda`);
+// console.log(`i like money`);
 
 
-window.alert('alert');
-window.alert('Welcome');
+// window.alert('alert');
+// window.alert('Welcome');
