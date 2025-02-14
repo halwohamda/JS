@@ -7,3 +7,4 @@
 
 
 document.getElementById("my1").textContent = "Hello Guys";
+document.getElementById('p 1').textContent= `I WILL BE SOON WEB DEVELOPER DESIGNER VEDIO EDITOR INSHA ALLAH!`
