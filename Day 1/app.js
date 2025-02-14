@@ -4,3 +4,6 @@
 
 // window.alert('alert');
 // window.alert('Welcome');
+
+
+document.getElementById("my1").textContent = "Hello Guys"
