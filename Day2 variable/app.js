@@ -16,3 +16,18 @@
 let price = 20;
 
 console.log(price);
+
+
+let price = 20;
+
+console.log(price);
+
+
+let price = 20;
+
+console.log(price);
+
+
+let price = 20;
+
+console.log(price);
