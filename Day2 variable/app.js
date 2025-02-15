@@ -14,9 +14,5 @@
 
 
 let price = 20;
-
-console.log(price);
-
-
 let gpa = 2.1;
 
