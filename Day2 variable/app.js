@@ -1,4 +1,4 @@
 let x;
-x = Hamda;
+x = 1234;
 
 console.log(x);
