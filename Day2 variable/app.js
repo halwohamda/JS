@@ -16,3 +16,4 @@
 let price = 20;
 let gpa = 2.1;
 
+console.log(`my age ${age} , `)
