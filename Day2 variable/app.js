@@ -1,4 +1,4 @@
 let x;
-x=10000000;
+x = Hamda;
 
 console.log(x);
