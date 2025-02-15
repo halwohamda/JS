@@ -5,6 +5,12 @@
 
 
 
-let age = 19;
+// let age = 19;
 
-console.log(age);
+// console.log(age);
+
+
+
+
+
+let x = 20;
