@@ -18,16 +18,5 @@ let price = 20;
 console.log(price);
 
 
-let price = 20;
+let gpa = 2.1;
 
-console.log(price);
-
-
-let price = 20;
-
-console.log(price);
-
-
-let price = 20;
-
-console.log(price);
