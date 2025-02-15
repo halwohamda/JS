@@ -13,4 +13,6 @@
 
 
 
-let x = 20;
+let price = 20;
+
+console.log(price);
