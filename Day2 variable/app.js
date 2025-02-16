@@ -11,6 +11,7 @@ let price = 20;
 
 let gpa = 2.1;
 
+console.log(typeof gpa)
 console.log(`my age ${age} years old`);
 
 console.log(`tomato price is $${price}`);
