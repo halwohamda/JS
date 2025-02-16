@@ -18,4 +18,5 @@ let gpa = 2.1;
 
 console.log(`my age ${age} years old`);
 console.log(`price $${price}`);
+console.log(`gpa ${gpa}`);
 
