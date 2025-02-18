@@ -17,3 +17,10 @@
 
 // console.log(`gpa ${gpa}`);
 
+
+
+let firsname = "hamda";
+
+
+console.log(typeof firsname);
+
