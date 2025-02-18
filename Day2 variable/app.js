@@ -20,9 +20,11 @@
 
 
 let firsname = "hamda";
-let favouritefood = "pasta"
+let favouritefood = "pasta";
+let email = "halwohamda@email.com";
 
 console.log(typeof firsname);
 console.log(firsname);
 console.log(favouritefood);
+console.log(email);
 
