@@ -20,7 +20,9 @@
 
 
 let firsname = "hamda";
+let favouritefood = "pasta"
 
 console.log(typeof firsname);
 console.log(firsname);
+console.log(favouritefood);
 
