@@ -20,15 +20,15 @@
 
  //String //
 
-let firsname = "hamda";
-let favouritefood = "pasta";
-let email = "halwohamda@email.com";
+// let firsname = "hamda";
+// let favouritefood = "pasta";
+// let email = "halwohamda@email.com";
 
-console.log(typeof firsname);
-console.log(typeof favouritefood);
-console.log(firsname);
-console.log(favouritefood);
-console.log(email);
+// console.log(typeof firsname);
+// console.log(typeof favouritefood);
+// console.log(firsname);
+// console.log(favouritefood);
+// console.log(email);
 
 
 //Boolen//
@@ -36,3 +36,4 @@ console.log(email);
 let outline = true;
 
 console.log(typeof outline);
+console.log(outline);
