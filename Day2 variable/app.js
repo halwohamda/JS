@@ -34,3 +34,5 @@ console.log(email);
 //Boolen//
 
 let outline = true;
+
+console.log(typeof outline);
