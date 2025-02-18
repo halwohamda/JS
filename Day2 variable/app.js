@@ -33,4 +33,4 @@ console.log(email);
 
 //Boolen//
 
-let outline = 
+let outline = true;
