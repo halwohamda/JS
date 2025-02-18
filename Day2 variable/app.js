@@ -34,6 +34,7 @@
 //Boolen//
 
 let outline = true;
-
+let forsale = false;
 console.log(typeof outline);
 console.log(outline);
+console.log(forsale);
