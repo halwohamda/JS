@@ -37,4 +37,14 @@ let outline = true;
 let forsale = false;
 console.log(typeof outline);
 console.log(outline);
-console.log(forsale);
+console.log(`is this car forsale ${forsale}`);
+
+
+let fullname = "halwo adam ";
+let age = "19";
+let student = false;
+ 
+
+document.getElementById("p1").textContent = fullname;
+document.getElementById("p2").textContent = age;
+document.getElementById('p3').textContent = student;
