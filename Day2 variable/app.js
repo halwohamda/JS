@@ -18,6 +18,7 @@
 // console.log(`gpa ${gpa}`);
 
 
+ //String //
 
 let firsname = "hamda";
 let favouritefood = "pasta";
@@ -29,3 +30,7 @@ console.log(firsname);
 console.log(favouritefood);
 console.log(email);
 
+
+//Boolen//
+
+let outline = 
