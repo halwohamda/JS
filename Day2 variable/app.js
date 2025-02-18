@@ -21,6 +21,6 @@
 
 let firsname = "hamda";
 
-
 console.log(typeof firsname);
+console.log(firsname);
 
