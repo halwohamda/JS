@@ -1,63 +1,63 @@
-// let x;
-// x = 1234;
+let x;
+x = 1234;
 
-// console.log(x);
+console.log(x);
 
-// let age = 19;
+let age = 19;
 
-// let price = 20;
+let price = 20;
 
-// let gpa = 2.1;
+let gpa = 2.1;
 
-// console.log(typeof gpa);w
+console.log(typeof gpa);w
 
-// console.log(`my age ${age} years old`);
+console.log(`my age ${age} years old`);
 
-// console.log(`tomato price is $${price}`);
+console.log(`tomato price is $${price}`);
 
-// console.log(`gpa ${gpa}`);
-
-
- //String //
-
-// let firsname = "hamda";
-// let favouritefood = "pasta";
-// let email = "halwohamda@email.com";
-
-// console.log(typeof firsname);
-// console.log(typeof favouritefood);
-// console.log(firsname);
-// console.log(favouritefood);
-// console.log(email);
+console.log(`gpa ${gpa}`);
 
 
-//Boolen//
+ String //
 
-// let outline = true;
-// let forsale = false;
-// console.log(typeof outline);
-// console.log(outline);
-// console.log(`is this car forsale ${forsale}`);
+let firsname = "hamda";
+let favouritefood = "pasta";
+let email = "halwohamda@email.com";
+
+console.log(typeof firsname);
+console.log(typeof favouritefood);
+console.log(firsname);
+console.log(favouritefood);
+console.log(email);
 
 
-// let fullname = "halwo adam ";
-// let age = "19";
-// let student = false;
+Boolen//
+
+let outline = true;
+let forsale = false;
+console.log(typeof outline);
+console.log(outline);
+console.log(`is this car forsale ${forsale}`);
+
+
+let fullname = "halwo adam ";
+let age = "19";
+let student = false;
  
 
-// document.getElementById("p1").textContent = `your name is ${fullname}`;
-// document.getElementById("p2").textContent = `your age is ${age}`;
-// document.getElementById('p3').textContent = student;
+document.getElementById("p1").textContent = `your name is ${fullname}`;
+document.getElementById("p2").textContent = `your age is ${age}`;
+document.getElementById('p3').textContent = student;
 
 
-// Operations//
+Operations//
 
 
-// let students = 31;
-// students = students +1;
-// students = students -1;
-// students = students *2;
-// students = students /2;
-// students = students **2;
-// let extrastudents = students % 4;
-// console.log(extrastudents);
+let students = 31;
+students = students +1;
+students = students -1;
+students = students *2;
+students = students /2;
+students = students **2;
+let extrastudents = students % 4;
+console.log(extrastudents);
