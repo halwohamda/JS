@@ -68,6 +68,6 @@ let students = 31;
 // students  %=2;
 // students /=2;
 students ++;
-students ++;
+students --;
 
 console.log(students);
