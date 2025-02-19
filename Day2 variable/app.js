@@ -63,5 +63,6 @@ let students = 31;
 
 // students = students +=1;
 // students = students -=1;
+students = students *=1;
 // students = students /=2;
 console.log(students);
