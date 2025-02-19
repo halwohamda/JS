@@ -62,5 +62,5 @@ let students = 31;
 // let extrastudents = students % 4;
 
 // students = students +=1;
-// students = students -=1;
+students = students -=1;
 console.log(students);
