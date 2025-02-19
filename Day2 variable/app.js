@@ -40,11 +40,11 @@ console.log(outline);
 console.log(`is this car forsale ${forsale}`);
 
 
-let fullname = "halwo adam ";
-let age = "19";
-let student = false;
+// let fullname = "halwo adam ";
+// let age = "19";
+// let student = false;
  
 
-document.getElementById("p1").textContent = `your name is ${fullname}`;
-document.getElementById("p2").textContent = `your age is ${age}`;
-document.getElementById('p3').textContent = student;
+// document.getElementById("p1").textContent = `your name is ${fullname}`;
+// document.getElementById("p2").textContent = `your age is ${age}`;
+// document.getElementById('p3').textContent = student;
