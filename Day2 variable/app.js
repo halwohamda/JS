@@ -61,6 +61,6 @@ let students = 31;
 // students = students **2;
 // let extrastudents = students % 4;
 
-students = students +=1;
+// students = students +=1;
 // students = students -=1;
 console.log(students);
