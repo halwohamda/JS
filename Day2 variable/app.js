@@ -33,11 +33,11 @@
 
 //Boolen//
 
-let outline = true;
-let forsale = false;
-console.log(typeof outline);
-console.log(outline);
-console.log(`is this car forsale ${forsale}`);
+// let outline = true;
+// let forsale = false;
+// console.log(typeof outline);
+// console.log(outline);
+// console.log(`is this car forsale ${forsale}`);
 
 
 // let fullname = "halwo adam ";
@@ -48,3 +48,6 @@ console.log(`is this car forsale ${forsale}`);
 // document.getElementById("p1").textContent = `your name is ${fullname}`;
 // document.getElementById("p2").textContent = `your age is ${age}`;
 // document.getElementById('p3').textContent = student;
+
+
+//
