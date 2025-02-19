@@ -53,3 +53,5 @@
 // Operations//
 
 
+let students = 30;
+
