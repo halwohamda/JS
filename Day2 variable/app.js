@@ -61,10 +61,10 @@ let students = 31;
 // students = students **2;
 // let extrastudents = students % 4;
 
-students +=1;
- students  -=1;
- students *=2;
- students **=2;
-students  %=2;
-students /=2;
-console.log(students);
+// students +=1;
+//  students  -=1;
+//  students *=2;
+//  students **=2;
+// students  %=2;
+// students /=2;
+// console.log(students);
