@@ -59,4 +59,5 @@ let students = 30;
 // students = students *2;
 // students = students /2;
 // students = students **2;
+let extrastudents = students % 2;
 console.log(students);
