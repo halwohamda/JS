@@ -63,7 +63,7 @@ let students = 31;
 
 // students = students +=1;
 // students = students -=1;
-// students = students *=2;
+ students *=2;
  students **=2;
 students  %=2;
 // students = students /=2;
