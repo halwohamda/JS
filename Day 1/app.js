@@ -20,3 +20,5 @@ console.log(student);
 let firstname = "hamda adan abdi";
 let age = "20";
 let enroll = false;
+
+console.log(`firstname ${firstname}`,`her age is ${age}` , `enroll ${enroll}`);
