@@ -24,3 +24,8 @@ let enroll = false;
 // console.log(`firstname ${firstname}`,
 // `her age is ${age}` ,
 //  `enroll ${enroll}`);
+
+document.getElementById("h1").textContent = fullname;
+document.getElementById("h2").textContent = age;
+document.getElementById("h3").textContent = enroll;
+
