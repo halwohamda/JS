@@ -15,3 +15,8 @@ console.log(fullname);
 
 let student = false;
 console.log(student);
+
+
+let firstname = "hamda adan abdi";
+let age = "20";
+let enroll = false;
