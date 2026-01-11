@@ -26,6 +26,6 @@ let enroll = false;
 //  `enroll ${enroll}`);
 
 document.getElementById("h1").textContent = `your name is ${fullname}`;
-document.getElementById("h2").textContent = `your age is ${ag}`;
+document.getElementById("h2").textContent = `your age is ${age}`;
 document.getElementById("h3").textContent = `enroll ${enroll}`;
 
