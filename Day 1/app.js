@@ -52,6 +52,9 @@ let exraStudents = students %3;
 //  students *=2;
 //  students /=2;
 //   students **=2;
+  students %=2;
+
+
 
 
 
