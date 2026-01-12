@@ -37,5 +37,7 @@
 
 let students = 40;
 
+students = students +1;
+
 
 console.log(students)
