@@ -42,6 +42,12 @@ let students = 41;
 // students = students *2;
 // students = students /2;
 // students = students **2;
-students = students %2;
-let exraStudents = students %2;
+// students = students %2;
+let exraStudents = students %3;
+
+// Augmented Assigment Operator
+
+students +1;
+
+
 console.log(students);
