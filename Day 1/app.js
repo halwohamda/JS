@@ -10,7 +10,7 @@
 // // let fullname = "hamda";
 // // console.log(fullname);
 
-window.alert("Done")
+// window.alert("Done")
 
 // // // Boolean
 
@@ -73,3 +73,5 @@ window.alert("Done")
 // let result = 6/2 **(2+5);
 
 // console.log(result)
+
+
