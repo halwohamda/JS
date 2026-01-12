@@ -42,5 +42,6 @@ let students = 40;
 // students = students *2;
 // students = students /2;
 // students = students **2;
+// students = students **2;
 
 console.log(students);
