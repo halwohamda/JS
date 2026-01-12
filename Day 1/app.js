@@ -39,7 +39,7 @@ let students = 40;
 
 // students = students +1;
 // students = students -1;
-students = students *1;
+// students = students *2;
 // students = students \1;
 
 console.log(students)
