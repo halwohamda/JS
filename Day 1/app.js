@@ -10,6 +10,7 @@
 // // let fullname = "hamda";
 // // console.log(fullname);
 
+window.alert("Done")
 
 // // // Boolean
 
