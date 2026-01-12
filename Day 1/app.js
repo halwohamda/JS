@@ -36,6 +36,9 @@
 
 
 let students = 40;
+let students = 40;
+let students = 40;
+let students = 40;
 
 students = students +1;
 
