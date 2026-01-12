@@ -1,62 +1,74 @@
-// // variable
+// // // variable
 
-// let x;
-// x=23;
-// console.log(x);
-
-
-// // string
-
-// let fullname = "hamda";
-// console.log(fullname);
+// // let x;
+// // x=23;
+// // console.log(x);
 
 
-// // Boolean
+// // // string
 
-// let student = false;
-// console.log(student);
-
-
-// let firstname = "hamda adan abdi";
-// let age = "20";
-// let enroll = false;
-
-// // console.log(`firstname ${firstname}`,
-// // `her age is ${age}` ,
-// //  `enroll ${enroll}`);
-
-// document.getElementById("h1").textContent = `your name is ${fullname}`;
-// document.getElementById("h2").textContent = `your age is ${age} years old`;
-// document.getElementById("h3").textContent = `enrolled: ${enroll}`
+// // let fullname = "hamda";
+// // console.log(fullname);
 
 
+// // // Boolean
+
+// // let student = false;
+// // console.log(student);
 
 
-// arithmetic
+// // let firstname = "hamda adan abdi";
+// // let age = "20";
+// // let enroll = false;
 
+// // // console.log(`firstname ${firstname}`,
+// // // `her age is ${age}` ,
+// // //  `enroll ${enroll}`);
 
-let students = 41;
-
-// students = students +1;
-// students = students -1;
-// students = students *2;
-// students = students /2;
-// students = students **2;
-// students = students %2;
-let exraStudents = students %3;
-
-// Augmented Assigment Operator
-
-// students +=1;
-// students -=1;
-//  students *=2;
-//  students /=2;
-//   students **=2;
-  students %=2;
+// // document.getElementById("h1").textContent = `your name is ${fullname}`;
+// // document.getElementById("h2").textContent = `your age is ${age} years old`;
+// // document.getElementById("h3").textContent = `enrolled: ${enroll}`
 
 
 
 
+// // arithmetic
 
 
-console.log(students);
+// let students = 41;
+
+// // students = students +1;
+// // students = students -1;
+// // students = students *2;
+// // students = students /2;
+// // students = students **2;
+// // students = students %2;
+// let exraStudents = students %3;
+
+// // Augmented Assigment Operator
+
+// // students +=1;
+// // students -=1;
+// //  students *=2;
+// //  students /=2;
+// //   students **=2;
+//   students %=2;
+
+
+// console.log(students);
+
+
+
+
+// operator precendence 
+
+// parenthesis ()
+// exponents
+// multiplication and division and modulo
+// addition and substraction
+
+
+
+// let result = 6/2 **(2+5);
+
+// console.log(result)
