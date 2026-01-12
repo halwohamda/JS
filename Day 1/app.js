@@ -35,7 +35,7 @@
 // arithmetic
 
 
-let students = 40;
+let students = 41;
 
 // students = students +1;
 // students = students -1;
@@ -43,5 +43,5 @@ let students = 40;
 // students = students /2;
 // students = students **2;
 students = students %2;
-
+let exraStudents = students %2;
 console.log(students);
