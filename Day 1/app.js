@@ -36,11 +36,10 @@
 
 
 let students = 40;
-let students = 40;
-let students = 40;
-let students = 40;
 
-students = students +1;
-
+// students = students +1;
+students = students -1;
+// students = students *1;
+// students = students \1;
 
 console.log(students)
