@@ -112,4 +112,4 @@ age = Number(age);
 
 age+=1;
 
-console.log(age , typeof age);
+console.log(age, typeof age);
