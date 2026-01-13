@@ -137,9 +137,10 @@
 
 
 
-let age = window.prompt("How Old are you");
+let age = window.prompt("How Old are you?");
 
+age = Number(age);
 
- age = Number (age);
- age+=1;
-console.log(age , typeof age);
+age+=1;
+
+console.log(age, typeof age);
