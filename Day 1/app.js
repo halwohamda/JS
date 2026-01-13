@@ -125,8 +125,8 @@ let = z = "pizza";
 
 
 x = Number(x);
-y = Number(y);
-z = Number(z);
+y = String(y);
+z = Boolean(z);
 
 
 console.log(x, typeof x);
