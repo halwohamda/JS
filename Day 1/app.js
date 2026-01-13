@@ -89,9 +89,9 @@
 
 // console.log(username);
 
-let username;
+// let username;
 
-document.getElementById("myText").onclick = function(){
-    document.getElementById("mySubmit").value;
-    console.log(username)
-}
+// document.getElementById("mySubmit").onclick = function(){
+//     username = document.getElementById("myText").value;
+//     document.getElementById("myH1").textContent = `Hello ${username}`
+// };
