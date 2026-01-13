@@ -91,8 +91,7 @@
 
 let username;
 
-document.getElementById("mySubmit").onclick = function(){
-    username = document.getElementById("myText").value;
-
-
-};
+document.getElementById("myText").onclick = function(){
+    document.getElementById("mySubmit").value;
+    console.log(username)
+}
