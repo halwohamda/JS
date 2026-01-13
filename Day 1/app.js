@@ -104,3 +104,8 @@
 //     console.log(username)
 
 // }
+
+
+
+let age = window.prompt("how old are you?");
+
