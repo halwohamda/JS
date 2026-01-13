@@ -75,3 +75,8 @@
 // console.log(result)
 
 
+how to accept user input 
+
+
+1. Easy way = window prompt
+2. professional way = HTML textbox
