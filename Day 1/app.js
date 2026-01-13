@@ -137,10 +137,17 @@
 
 
 
-let age = window.prompt("How Old are you?");
 
-age = Number(age);
+let x = "2";
+let y = "2";
+let z = "2";
 
-age+=1;
 
-console.log(age, typeof age);
+
+x = Number(x);
+x = String(y);
+x = Boolean(z);
+
+console.log(x , typeof x);
+console.log(y, typeof y);
+console.log(z , typeof z);
