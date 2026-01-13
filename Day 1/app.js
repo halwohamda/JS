@@ -138,16 +138,16 @@
 
 
 
-let x = "2";
-let y = "2";
-let z = "2";
+// let x = "2";
+// let y = "1";
+// let z = "3";
 
 
 
-x = Number(x);
-x = String(y);
-x = Boolean(z);
+// x = Number(x);
+// x = String(y);
+// x = Boolean(z);
 
-console.log(x , typeof x);
-console.log(y, typeof y);
-console.log(z , typeof z);
+// console.log(x , typeof x);
+// console.log(y, typeof y);
+// console.log(z , typeof z);
