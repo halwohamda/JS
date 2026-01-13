@@ -75,8 +75,16 @@
 // console.log(result)
 
 
-how to accept user input 
+// how to accept user input 
 
 
-1. Easy way = window prompt
-2. professional way = HTML textbox
+// 1. Easy way = window prompt
+// 2. professional way = HTML textbox
+
+
+let username;
+
+username = window.prompt("what is your username");
+
+
+console.log(username);
