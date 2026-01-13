@@ -119,9 +119,9 @@
 
 
 
-let = x = "pizza";
-let = y = "pizza";
-let = z = "pizza";
+let = x = "0";
+let = y = "0";
+let = z = "0";
 
 
 x = Number(x);
