@@ -82,9 +82,9 @@
 // 2. professional way = HTML textbox
 
 
-let username;
+// let username;
 
-username = window.prompt("what is your username");
+// username = window.prompt("what is your username");
 
 
-console.log(username);
+// console.log(username);
