@@ -142,4 +142,5 @@ let age = window.prompt("How Old are you");
 
  age = Number (age);
 
+ age=+1;
 console.log(age)
