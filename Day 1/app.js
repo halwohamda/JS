@@ -137,3 +137,14 @@
 
 // constance or const = avariable that can not be changed
 
+let pi = 3.14159;
+let = radius;
+let = curcumference;
+
+
+radius= window.prompt('Enter the Curcumferece');
+radius=Number(radius);
+
+curcumference = 2*pi*radius;
+
+console.log(curcumference)
