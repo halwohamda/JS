@@ -138,18 +138,18 @@
 // constance or const = avariable that can not be changed
 
 
-// let pi = 3.14159;
-// let radius;
-// let circumference;
+let pi = 3.14159;
+let radius;
+let circumference;
 
-// radius = window.prompt('circumference is =');
+radius = window.prompt('circumference is =');
 
-// radius = Number(radius)
+radius = Number(radius)
 
-// circumference =2*pi*radius;
+circumference =2*pi*radius;
 
 
-// console.log(circumference);
+console.log(circumference);
 
 
 
