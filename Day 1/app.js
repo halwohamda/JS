@@ -149,7 +149,7 @@ radius = Number(radius)
 circumference =2*pi*radius;
 
 
-console.lo(circumference);
+console.log(circumference);
 
 
 
