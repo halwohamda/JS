@@ -133,3 +133,18 @@
 // console.log(y, typeof y);
 // console.log(z, typeof z);
 
+
+
+// constance or const = avariable that can not be changed
+
+
+let pi = 3.14153;
+let radius;
+let circumference;
+
+radius = window.prompt('Enter the radius of a circumference ');
+radius = Number(radius);
+
+circumference = 2*pi*radius;
+
+console.log(circumference);
