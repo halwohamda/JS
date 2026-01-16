@@ -155,3 +155,4 @@
 
 // counter program
 
+const increaseBtn = document.getElementById("decrease");
