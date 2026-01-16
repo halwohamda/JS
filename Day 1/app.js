@@ -172,5 +172,5 @@ decreaseBtn.onclick = function(){
 };
 resetBtn.onclick = function(){
     count =0;
-    countLabel.textContent = count
+    countLabel.textContent = count;
 };
