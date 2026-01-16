@@ -155,14 +155,14 @@
 
 // counter program
 
-const increaseBtn = document.getElementById("decrease");
+const increaseBtn = document.getElementById("increase");
 const decreaseBtn = document.getElementById("decrease");
 const resetBtn = document.getElementById("reset");
-const counterLabelBtn = document.getElementById("counterLabel");
+const counterLabelBtn = document.getElementById("counteLabel");
 
 let count = 0;
 
 increaseBtn.onclick = function(){
     count ++;
-
+    countLabel.textContent = count
 };
