@@ -164,7 +164,7 @@ let count = 0;
 
 increaseBtn.onclick = function(){
     count ++;
-    countLabel.textContent = count
+    countLabel.textContent = count;
 };
 decreaseBtn.onclick = function(){
     count --;
