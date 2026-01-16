@@ -158,3 +158,4 @@
 const increaseBtn = document.getElementById("decrease");
 const decreaseBtn = document.getElementById("decrease");
 const resetBtn = document.getElementById("reset");
+const counterLableBtn = document.getElementById("counterLable");
