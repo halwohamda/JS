@@ -160,3 +160,18 @@ const  increaseBtn = document.getElementById("increase");
 const  resetBtn = document.getElementById("reset");
 const  decreaseBtn = document.getElementById("decrease");
 const countLabelBtn = document.getElementById("countLabel");
+
+let counte = 0;
+
+decreaseBtn.onclick = function(){
+    counte  --;
+    countLabelBtn.textContent = counte
+};
+increaseBtn.onclick = function(){
+    counte  ++;
+    countLabelBtn.textContent = counte
+};
+resetBtn.onclick = function(){
+    counte   = 0;
+    countLabelBtn.textContent = counte
+};
