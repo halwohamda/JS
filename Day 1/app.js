@@ -161,3 +161,8 @@ const resetBtn = document.getElementById("reset");
 const counterLabelBtn = document.getElementById("counterLabel");
 
 let count = 0;
+
+increaseBtn.onclick = function(){
+    count ++;
+
+};
