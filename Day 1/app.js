@@ -156,4 +156,4 @@
 // counter program
 
 const increaseBtn = document.getElementById("decrease");
-const increaseBtn = document.getElementById("decrease");
+const decreaseBtn = document.getElementById("decrease");
