@@ -159,3 +159,5 @@ const increaseBtn = document.getElementById("decrease");
 const decreaseBtn = document.getElementById("decrease");
 const resetBtn = document.getElementById("reset");
 const counterLabelBtn = document.getElementById("counterLabel");
+
+let count = 0;
