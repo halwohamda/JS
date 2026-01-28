@@ -180,4 +180,6 @@ let y = 2;
 let z;
 
 
+z = math.round(x);
+
 
