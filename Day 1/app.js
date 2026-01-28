@@ -119,58 +119,58 @@
 
 
 
-// let = x;
-// let = y;
-// let = z;
+// // let = x;
+// // let = y;
+// // let = z;
 
 
-// x = Number(x);
-// y = String(y);
-// z = Boolean(z);
+// // x = Number(x);
+// // y = String(y);
+// // z = Boolean(z);
 
 
-// console.log(x, typeof x);
-// console.log(y, typeof y);
-// console.log(z, typeof z);
-
-
-
-// constance or const = avariable that can not be changed
-
-
-// const PI = 3.14153;
-// let radius ;
-// let circumference;
+// // console.log(x, typeof x);
+// // console.log(y, typeof y);
+// // console.log(z, typeof z);
 
 
 
-// document.getElementById("mySubmit").onclick = function(){
-//     radius = document.getElementById("myText").value;
-//     radius = Number(radius);
-//     circumference = 2*PI*radius;
-//     document.getElementById("myH3").textContent = circumference +"cm";
+// // constance or const = avariable that can not be changed
+
+
+// // const PI = 3.14153;
+// // let radius ;
+// // let circumference;
+
+
+
+// // document.getElementById("mySubmit").onclick = function(){
+// //     radius = document.getElementById("myText").value;
+// //     radius = Number(radius);
+// //     circumference = 2*PI*radius;
+// //     document.getElementById("myH3").textContent = circumference +"cm";
+// // };
+
+
+
+// // counter program
+
+// const increaseBtn = document.getElementById("increase");
+// const decreaseBtn = document.getElementById("decrease");
+// const resetBtn = document.getElementById("reset");
+// const counterLabelBtn = document.getElementById("counteLabel");
+
+// let count = 0;
+
+// increaseBtn.onclick = function(){
+//     count ++;
+//     countLabel.textContent = count;
 // };
-
-
-
-// counter program
-
-const increaseBtn = document.getElementById("increase");
-const decreaseBtn = document.getElementById("decrease");
-const resetBtn = document.getElementById("reset");
-const counterLabelBtn = document.getElementById("counteLabel");
-
-let count = 0;
-
-increaseBtn.onclick = function(){
-    count ++;
-    countLabel.textContent = count;
-};
-decreaseBtn.onclick = function(){
-    count --;
-    countLabel.textContent = count;
-};
-resetBtn.onclick = function(){
-    count =0;
-    countLabel.textContent = count;
-};
+// decreaseBtn.onclick = function(){
+//     count --;
+//     countLabel.textContent = count;
+// };
+// resetBtn.onclick = function(){
+//     count =0;
+//     countLabel.textContent = count;
+// };
