@@ -175,10 +175,10 @@
 //     countLabel.textContent = count;
 // };
 
-let x = -3.21;
+let x = 3;
 let y = 2;
 
-let z;
+let z = 1;
 
 // z = Math.round(x);
 // z = Math.floor(x);
