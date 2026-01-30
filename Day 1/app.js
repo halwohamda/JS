@@ -175,6 +175,9 @@
 //     countLabel.textContent = count;
 // };
 
+
+Math in Object that provides collection of properties and method
+
 // let x = 3;
 // let y = 2;
 
