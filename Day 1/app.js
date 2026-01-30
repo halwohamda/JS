@@ -187,8 +187,8 @@ let z;
 // z = Math.pow(x,y);
 // z = Math.sqrt(x);
 // z = Math.log(x);
-z = Math.sin(x);
-z = Math.sin(x);
+// z = Math.sin(x);
+z = Math.cos(x);
 
 console.log(z);
 
