@@ -192,8 +192,8 @@ let z = 1;
 // z = Math.tan(x);
 // z = Math.abs(x);
 //  z = Math.sign(x);
-let max = Math.max(x,y,z);
-let min = Math.min(x,y,z);
+// let max = Math.max(x,y,z);
+// let min = Math.min(x,y,z);
 
 console.log(min);
 
