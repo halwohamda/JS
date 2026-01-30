@@ -190,7 +190,8 @@ let z;
 // z = Math.sin(x);
 // z = Math.cos(x);
 // z = Math.tan(x);
-z = Math.abs(x);
+// z = Math.abs(x);
+ z = Math.sign(x);
 
 console.log(z);
 
