@@ -175,7 +175,14 @@
 //     countLabel.textContent = count;
 // };
 
+let x = 3.21;
+let y = 2;
 
+let z;
+
+z = Math.round(x);
+
+console.log(z);
 
 
 
