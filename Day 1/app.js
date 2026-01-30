@@ -175,6 +175,6 @@
 //     countLabel.textContent = count;
 // };
 
-console.log(math.PI)
+console.log(Math.PI)
 
 
