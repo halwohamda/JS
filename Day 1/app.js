@@ -175,7 +175,7 @@
 //     countLabel.textContent = count;
 // };
 
-let x = 45;
+let x = -3.21;
 let y = 2;
 
 let z;
