@@ -193,8 +193,9 @@ let z = 1;
 // z = Math.abs(x);
 //  z = Math.sign(x);
 let max = Math.max(x,y,z);
+let min = Math.min(x,y,z);
 
-console.log(z);
+console.log(max);
 
 
 
