@@ -188,6 +188,7 @@ let z;
 // z = Math.sqrt(x);
 // z = Math.log(x);
 z = Math.sin(x);
+z = Math.sin(x);
 
 console.log(z);
 
