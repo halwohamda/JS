@@ -175,7 +175,7 @@
 //     countLabel.textContent = count;
 // };
 
-let x = 81;
+let x = 10;
 let y = 2;
 
 let z;
@@ -185,7 +185,7 @@ let z;
 // z = Math.ceil(x);
 // z = Math.trunc(x);
 // z = Math.pow(x,y);
-z = Math.sqrt(x);
+// z = Math.sqrt(x);
 z = Math.sqrt(x);
 
 console.log(z);
