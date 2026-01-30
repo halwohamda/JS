@@ -186,7 +186,8 @@ let z;
 // z = Math.trunc(x);
 // z = Math.pow(x,y);
 // z = Math.sqrt(x);
-z = Math.log(x);
+// z = Math.log(x);
+z = Math.sin(x);
 
 console.log(z);
 
