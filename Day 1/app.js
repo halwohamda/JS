@@ -194,11 +194,11 @@
 // z = Math.sin(x);
 // z = Math.cos(x);
 // z = Math.tan(x);
-// z = Math.abs(x);
-//  z = Math.sign(x);
-// let max = Math.max(x,y,z);
-// let min = Math.min(x,y,z);
+z = Math.abs(x);
+ z = Math.sign(x);
+let max = Math.max(x,y,z);
+let min = Math.min(x,y,z);
 
-// console.log(min);
+console.log(min);
 
 
