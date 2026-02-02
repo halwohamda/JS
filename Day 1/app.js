@@ -206,4 +206,6 @@
 
 let rondumNum = Math.random();
 
+console.log(randomNum);
+
 
