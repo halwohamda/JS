@@ -202,3 +202,8 @@
 // console.log(min);
 
 
+// RONDOM NUMBER GENERATOR
+
+let rondumNum = Math.random();
+
+
