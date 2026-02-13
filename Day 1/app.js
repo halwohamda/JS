@@ -204,8 +204,6 @@
 
 // RONDOM NUMBER GENERATOR
 
-let rondumNum = Math.random();
 
-console.log(randomNum);
 
 
