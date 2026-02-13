@@ -221,5 +221,6 @@ let randomNum
 
 
 myButton.onclick = function(){
-      
+      randomNum = Math.floor(Math.random() * max) + min;
+      myLabel.textContent = randomNum;
 }
