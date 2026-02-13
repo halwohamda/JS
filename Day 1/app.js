@@ -212,6 +212,4 @@
 
 // console.log(randomNum);
 
-
-
-
+const myButton = document.getElementById("myButton");
