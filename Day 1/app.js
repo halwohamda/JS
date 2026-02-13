@@ -205,11 +205,13 @@
 // RONDOM NUMBER GENERATOR
 
 
-let min =50;
-let max =100;
+// let min =50;
+// let max =100;
 
-let randomNum = Math.floor(Math.random()*(max-min)) + min;
+// let randomNum = Math.floor(Math.random()*(max-min)) + min;
 
-console.log(randomNum);
+// console.log(randomNum);
+
+
 
 
