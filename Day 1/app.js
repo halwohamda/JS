@@ -204,9 +204,10 @@
 
 // RONDOM NUMBER GENERATOR
 
-let randomNum = Math.random();
 
-console.log(randomNum);
+let min =50;
+let max =100;
+
 
 
 
