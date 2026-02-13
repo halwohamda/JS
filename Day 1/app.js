@@ -213,3 +213,7 @@
 // console.log(randomNum);
 
 const myButton = document.getElementById("myButton");
+const myLabel = document.getElementById("myLabel");
+
+let min = 1 ;
+let max = 6 ;
