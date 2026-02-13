@@ -212,15 +212,14 @@
 
 // console.log(randomNum);
 
-const myButton = document.getElementById("myButton");
-const myLabel = document.getElementById("myLabel");
+const Mybutton = document.getElementById("myButton");
+const MyLabel = document.getElementById("myLabel");
+const min = 1;
+const max = 6;
+let randumNum;
 
-const  min = 1 ;
-const  max = 6 ;
-let randomNum
 
-
-myButton.onclick = function(){
-      randomNum = Math.floor(Math.random() * max) + min;
-      myLabel.textContent = randomNum;
+Mybutton.onclick = function(){
+    randumNum = Math.floor(Math.random() * max) + min;
+    MyLabel.textContent = randumNum;
 }
