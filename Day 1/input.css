@@ -26,3 +26,18 @@
     
 };
  */
+
+ body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+ }
+ #myButton{
+    font-size: 3em;
+    padding: 5px 10px ;
+    border: bisque;
+
+ }
+ #myLabel{
+    font-size: 3em;
+ }
