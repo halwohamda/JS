@@ -267,7 +267,7 @@
 
 let age = 18;
 
-let hasLicense = false;
+let hasLicense = true;
 
 if(age >= 16){
     console.log("you are old enough to drive ");
