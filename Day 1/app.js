@@ -282,3 +282,6 @@
 // }else{
 //     console.log("you are Not  old enough to drive ");
 // }
+
+
+let age = 18;
