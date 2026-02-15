@@ -256,7 +256,7 @@
 
 //Boolen
 
-let isStudent = true;
+let isStudent = false;
 if(isStudent){
    console.log("You are a student!");
 
