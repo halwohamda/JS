@@ -272,6 +272,13 @@ let hasLicense = true;
 if(age >= 16){
     console.log("you are old enough to drive ");
 
+if(hasLicense){
+      console.log("you have your license ");
+}else{
+    console.log("you have Not  your license Yet ");
+}
+
+
 }else{
     console.log("you are Not  old enough to drive ");
 }
