@@ -246,10 +246,12 @@
 // }
 
 
-let time = 5;
+let time = 9;
 
 if (time < 8){
     console.log("Good morning");
 
-};
+}else{
+    console.log("Good Afternoon")
+}
 
