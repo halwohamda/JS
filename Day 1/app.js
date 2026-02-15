@@ -231,3 +231,7 @@
 //     Label2.textContent = randumNum2;
 //     Label3.textContent = randumNum3;
 // }
+
+
+// IF STATEMENTS = IF A CONDITION IS TRUE , EXECUTE SOME CODE 
+//         IF NOT , DO SOMETHING ELSE
