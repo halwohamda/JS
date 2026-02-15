@@ -237,7 +237,7 @@
 //         IF NOT , DO SOMETHING ELSE
 
 
-const age = 15;
+const age = 16;
 
 if(age >=18 ){
     console.log("your Age is ok")
