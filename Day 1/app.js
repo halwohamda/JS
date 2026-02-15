@@ -235,3 +235,10 @@
 
 // IF STATEMENTS = IF A CONDITION IS TRUE , EXECUTE SOME CODE 
 //         IF NOT , DO SOMETHING ELSE
+
+
+const age = 25;
+
+if(age >=18 ){
+    console.log("your Age is ok")
+}
