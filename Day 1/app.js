@@ -248,7 +248,7 @@
 
 let time = 5;
 
-if (time >= 8){
+if (time < 8){
     console.log("Good morning");
 
 };
