@@ -237,10 +237,19 @@
 //         IF NOT , DO SOMETHING ELSE
 
 
-const age = 16;
+// let age = 16;
 
-if(age >=18 ){
-    console.log("your Age is ok")
-}else{
-    console.log("only are allowed 18+  ")
-}
+// if(age >=18 ){
+//     console.log("your Age is ok")
+// }else{
+//     console.log("only are allowed 18+  ")
+// }
+
+
+let time = 5;
+
+if (time >= 8){
+    console.log("Good morning");
+
+};
+
