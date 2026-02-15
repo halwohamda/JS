@@ -264,3 +264,6 @@
 //     console.log("You are NOT student!");
 // };
 
+
+let age = 18;
+
