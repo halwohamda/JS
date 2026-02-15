@@ -242,5 +242,5 @@ const age = 15;
 if(age >=18 ){
     console.log("your Age is ok")
 }else{
-    console.log("18+ are allowed ")
+    console.log("only are allowed 18+  ")
 }
