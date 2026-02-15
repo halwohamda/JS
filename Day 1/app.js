@@ -236,7 +236,7 @@
 // IF STATEMENTS = IF A CONDITION IS TRUE , EXECUTE SOME CODE 
 //         IF NOT , DO SOMETHING ELSE
 
-
+//Number
 // let age = 16;
 
 // if(age >=18 ){
@@ -244,7 +244,6 @@
 // }else{
 //     console.log("only are allowed 18+  ")
 // }
-
 
 // let time = 9;
 
@@ -254,4 +253,8 @@
 // }else{
 //     console.log("Good Afternoon")
 // };
+
+//Boolen
+
+
 
