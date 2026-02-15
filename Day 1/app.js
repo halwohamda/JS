@@ -256,5 +256,11 @@
 
 //Boolen
 
+let isStudent = true;
+if(isStudent){
+   console.log("You are a student!");
 
+}else{
+    console.log("You are NOT student!");
+};
 
