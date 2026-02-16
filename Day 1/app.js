@@ -290,4 +290,9 @@ const resultElement = document.getElementById("resultElemt");
 
 let age;
 
+mySubmit.onclick = function(){
+    age = myText.value;
+    
+}
+
 
