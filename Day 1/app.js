@@ -295,6 +295,7 @@ mySubmit.onclick = function(){
     age = Number(age);
 
     if(age >=100){
+        resultElement.textContent = `you are Too old to enter this site`
 
     }
 
