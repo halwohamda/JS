@@ -284,3 +284,6 @@
 // }
 
 
+const myText = document.getElementById("myText");
+
+
