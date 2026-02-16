@@ -292,7 +292,8 @@ let age;
 
 mySubmit.onclick = function(){
     age = myText.value;
-    
+    age = Number(age);
+
 }
 
 
