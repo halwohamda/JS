@@ -294,6 +294,10 @@ mySubmit.onclick = function(){
     age = myText.value;
     age = Number(age);
 
+    if(age >=100){
+
+    }
+
 }
 
 
