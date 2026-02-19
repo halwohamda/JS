@@ -316,3 +316,12 @@
 // }
 
 
+// .checked = property that determines the checkd state of an HTML checkbox or radio button element 
+
+const myCheckbox = document.getElementById("myCheckBox");
+const visaBtn = document.getElementById("visaBtn");
+const masterCardBtn = document.getElementById("masterCardBtn");
+const payPalBtn = document.getElementById("payPalBtn");
+const subResult = document.getElementById("subResult");
+const mySubmit = document.getElementById("mySubmit");
+const paymentResult = document.getElementById("paymentResult");
