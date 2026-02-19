@@ -27,12 +27,12 @@
 };
  */
 
- /* body{
+  body{
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+    /* text-align: center; */
     
  }
- #myButton{
+ /* #myButton{
     font-size: 3em;
     padding: 5px 25px ;
     border-radius: 5px;
