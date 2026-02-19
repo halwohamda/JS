@@ -343,5 +343,7 @@ mySubmit.onclick = function(){
     } 
     else if (payPalBtn.checked){
         paymentResult.textContent = `you are paying with paypal`;
-    };
+    } else{
+        paymentResult.textContent = `You must Select a payment type`
+    }
 }
