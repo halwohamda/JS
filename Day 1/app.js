@@ -336,6 +336,12 @@ mySubmit.onclick = function(){
     }
 
     if(visaBtn.checked){
-        mySubmit.textContent = ` you Are paying with visa card`
+        paymentResult.textContent = `you are paying with visa`
     }
+     else if(masterCardBtn.checked){
+        paymentResult.textContent = `you are paying with mastercard`;
+    } 
+    else if (payPalBtn.checked){
+        paymentResult.textContent = `you are paying with paypal`;
+    };
 }
