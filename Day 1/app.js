@@ -325,3 +325,17 @@ const payPalBtn = document.getElementById("payPalBtn");
 const subResult = document.getElementById("subResult");
 const mySubmit = document.getElementById("mySubmit");
 const paymentResult = document.getElementById("paymentResult");
+
+
+mySubmit.onclick = function(){
+    if(myCheckbox.checked){
+        subResult.textContent = `You are subscribed !`;
+    }
+     else{
+        subResult.textContent = `You are Not subscribed !`;
+    }
+
+    if(visaBtn.checked){
+        mySubmit.textContent = ` you Are paying with visa card`
+    }
+}
