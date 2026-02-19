@@ -345,5 +345,5 @@ mySubmit.onclick = function(){
         paymentResult.textContent = `you are paying with paypal`;
     } else{
         paymentResult.textContent = `You must Select a payment type`
-    }
+    };
 }
