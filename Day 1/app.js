@@ -379,7 +379,7 @@
 
 
 
-let purchaseAmount = 99;
-let discount = purchaseAmount >= 100 ? 10 : 0;
-console.log(`your total is $${purchaseAmount-purchaseAmount*(discount/100)}`);
+// let purchaseAmount = 99;
+// let discount = purchaseAmount >= 100 ? 10 : 0;
+// console.log(`your total is $${purchaseAmount-purchaseAmount*(discount/100)}`);
 
