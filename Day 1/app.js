@@ -372,6 +372,14 @@
 // let isStudent = false;
 
 
+
 // let message = isStudent ? 'you are a student':'you are Not student';
 
 // console.log(message);
+
+
+
+let purchaseAmount = 124;
+let discount = purchaseAmount >= 100 ? 10 : 0;
+console.log(`your total is $${purchaseAmount-purchaseAmount*(discount/100)}`);
+
