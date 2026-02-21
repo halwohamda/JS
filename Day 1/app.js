@@ -347,3 +347,31 @@
 //         paymentResult.textContent = `You must Select a payment `
 //     }
 // };
+
+
+
+
+// ternary opertor = ashort to if {} and else {} statement helps to assign avariable based on a condition 
+// conditon? code if true : code if false  
+
+
+// let age = 16;
+
+// let message = age>=18? 'you are old ':'you are young';
+
+// console.log(message)
+
+
+// let time = 15;
+
+// let greeting = time <  12 ?  'good morning' : 'good afternoon';
+
+// console.log(greeting);
+
+
+// let isStudent = false;
+
+
+// let message = isStudent ? 'you are a student':'you are Not student';
+
+// console.log(message);
