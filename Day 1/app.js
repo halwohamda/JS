@@ -386,7 +386,7 @@
 // Switch = can be an efficient replacement to many else if statement 
 
 
-let day = 4;
+let day = 'pizza';
 
 switch(day){
     case  1:
