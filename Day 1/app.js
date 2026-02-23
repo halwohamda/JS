@@ -386,3 +386,5 @@
 // Switch = can be an efficient replacement to many else if statement 
 
 
+let day = 1;
+
