@@ -411,4 +411,6 @@ switch(day){
     case  7:
                 console.log("It is sunday");
                 break;
+    default:
+        console.log(`${day} isnot a Day`);
 };
