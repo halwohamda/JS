@@ -386,7 +386,7 @@
 // Switch = can be an efficient replacement to many else if statement 
 
 
-let day = 2;
+let day = 4;
 
 switch(day){
     case  1:
@@ -411,4 +411,4 @@ switch(day){
     case  7:
                 console.log("It is sunday");
                 break;
-}
+};
