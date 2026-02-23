@@ -391,5 +391,5 @@ let day = 1;
 switch(day){
     case  1:
         console.log("It is monday");
-        
+        break;
 }
