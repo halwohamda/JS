@@ -449,9 +449,9 @@
 
    //.indexOf();
 
-let userName = "Halwo";
+// let userName = "Halwo";
 
-console.log(userName.indexOf(("o")));
+// console.log(userName.indexOf(("o")));
 
    // lastIndexOf()
 
