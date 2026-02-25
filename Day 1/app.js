@@ -414,3 +414,5 @@
 //     default:
 //         console.log(`${day} isnot a Day`);
 // };
+let testScore = 33;
+let letterGrade;
