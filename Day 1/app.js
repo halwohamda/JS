@@ -503,7 +503,7 @@
           
          let result = userName.startsWith(" ");
          
-         console.log(userName);
+         console.log(result);
 
 
 
