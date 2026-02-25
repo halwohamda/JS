@@ -455,7 +455,7 @@
 
    // lastIndexOf();
 
-let userName = "Halwo";
+// let userName = "Halwo";
 
-console.log(userName.lastIndexOf("o"));
+// console.log(userName.lastIndexOf("a"));
 
