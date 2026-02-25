@@ -416,3 +416,11 @@
 // };
 let testScore = 33;
 let letterGrade;
+
+switch(true){
+    case testScore >= 90:
+    letterGrade = "A";
+    break;
+    
+
+}
