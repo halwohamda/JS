@@ -453,9 +453,22 @@
 
 // console.log(userName.indexOf(("o")));
 
-   // lastIndexOf();
+   // .lastIndexOf();
 
 // let userName = "Halwo";
 
 // console.log(userName.lastIndexOf("a"));
+
+    // .lenght
+
+let userName = "Halwo";
+
+console.log()
+
+
+
+
+
+
+
 
