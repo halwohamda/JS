@@ -461,9 +461,15 @@
 
     // .lenght
 
-let userName = "Halwo";
+// let userName = "Halwo";
 
-console.log(userName.length);
+// console.log(userName.length);
+
+   //.trim();
+
+ let userName = "Halwo";
+
+ console.log(userName.trim);
 
 
 
