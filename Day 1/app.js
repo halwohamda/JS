@@ -467,11 +467,27 @@
 
    //.trim();
 
- let userName = "Halwo";
+//  let userName = "Halwo";
 
- userName = userName.trim();
+//  userName = userName.trim();
   
- console.log(userName);
+//  console.log(userName);
+
+     //.toUpperCase();
+
+//  let userName = "Halwo";
+
+//  userName = userName.toUpperCase();
+  
+//  console.log(userName);
+        //toLowerCase();
+
+        let userName = "Halwo";
+
+        userName = userName.toLocaleLowerCase();
+         
+        console.log(userName);
+
 
 
 
