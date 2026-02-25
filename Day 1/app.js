@@ -480,15 +480,22 @@
 //  userName = userName.toUpperCase();
   
 //  console.log(userName);
+
         //toLowerCase();
 
-        let userName = "Halwo";
+        // let userName = "Halwo";
 
-        userName = userName.toLocaleLowerCase();
+        // userName = userName.toLocaleLowerCase();
          
-        console.log(userName);
+        // console.log(userName);
 
+         // repeat();
 
+         let userName = "Halwo";
+
+         userName = userName.repeat(3);
+          
+         console.log(userName);
 
 
 
