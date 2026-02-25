@@ -491,13 +491,19 @@
 
          // repeat();
 
-         let userName = "Halwo";
+        //  let userName = "Halwo";
 
-         userName = userName.repeat(3);
+        //  userName = userName.repeat(3);
           
+        //  console.log(userName);
+
+         // startsWith();
+
+         let userName = "Halwo";
+          
+         let result = userName.startsWith(" ");
+         
          console.log(userName);
-
-
 
 
 
