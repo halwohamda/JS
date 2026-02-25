@@ -438,3 +438,11 @@
 // }
 
 // console.log(letterGrade);
+
+
+
+//Srting method = allo you to manipulate and work with text (strings)
+
+
+
+
