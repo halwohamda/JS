@@ -447,9 +447,11 @@
 
 // console.log(userName.charAt((0)));
 
- //.indexOf();
+   //.indexOf();
 
 let userName = "Halwo";
 
-console.log(userName.indexOf(("0")));
+console.log(userName.indexOf(("o")));
+
+   // lastIndexOf()
 
