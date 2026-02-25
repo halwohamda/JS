@@ -442,7 +442,14 @@
 
 
 //Srting method = allo you to manipulate and work with text (strings)
+   //.charAt();
+// let userName = "Halwo"
 
-let userName = "Halwo"
+// console.log(userName.charAt((0)));
 
+ //.indexOf();
+
+let userName = "Halwo";
+
+console.log(userName.indexOf(("0")));
 
