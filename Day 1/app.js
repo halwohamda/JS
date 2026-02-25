@@ -463,7 +463,7 @@
 
 let userName = "Halwo";
 
-console.log()
+console.log(userName.length("o"));
 
 
 
