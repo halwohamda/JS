@@ -467,9 +467,11 @@
 
    //.trim();
 
- let userName = "Halwo";
+ let userName = "Halwo   ";
 
- console.log(userName.trim);
+ userName = userName.trim();
+  
+ console.log(userName);
 
 
 
