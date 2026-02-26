@@ -539,7 +539,7 @@
          
       let phoneNumber = 123-456-789;
 
-      phoneNumber = phoneNumber.padStart("-","/");
+      phoneNumber = phoneNumber.padStart(15, "0");
 
       console.log(phoneNumber);
          
