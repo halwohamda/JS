@@ -521,16 +521,16 @@
          // else{
          //    console.log(result);
          // };
-         let userName = " Hal wo";
+         // let userName = " Hal wo";
           
-         let result = userName.includes(" ");
+         // let result = userName.includes(" ");
 
-         if(result){
-              console.log("your username can't include ' ' ");
-         }
-         else{
-            console.log(result);
-         };
+         // if(result){
+         //      console.log("your username can't include ' ' ");
+         // }
+         // else{
+         //    console.log(result);
+         // };
          
          
 
