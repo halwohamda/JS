@@ -521,6 +521,17 @@
          // else{
          //    console.log(result);
          // };
+         let userName = " Halwo";
+          
+         let result = userName.includes(" ");
+
+         if(result){
+              console.log("your username can't include ' ' ");
+         }
+         else{
+            console.log(result);
+         }
+         
          
 
 
