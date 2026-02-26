@@ -511,7 +511,17 @@
          // }
          
      
+         let userName = " Halwo";
+          
+         let result = userName.endsWith(" ");
 
+         if(result){
+              console.log("your username can't begin with ' ' ");
+         }
+         else{
+            console.log(result);
+         }
+         
 
 
 
