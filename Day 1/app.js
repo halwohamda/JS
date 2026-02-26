@@ -521,7 +521,7 @@
          // else{
          //    console.log(result);
          // };
-         let userName = " Halwo";
+         let userName = " Hal wo";
           
          let result = userName.includes(" ");
 
@@ -530,7 +530,7 @@
          }
          else{
             console.log(result);
-         }
+         };
          
          
 
