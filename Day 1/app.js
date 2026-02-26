@@ -511,16 +511,16 @@
          // }
          
      
-         let userName = " Halwo  ";
+         // let userName = " Halwo  ";
           
-         let result = userName.endsWith(" ");
+         // let result = userName.endsWith(" ");
 
-         if(result){
-              console.log("your username can't end with ' ' ");
-         }
-         else{
-            console.log(result);
-         };
+         // if(result){
+         //      console.log("your username can't end with ' ' ");
+         // }
+         // else{
+         //    console.log(result);
+         // };
          
 
 
