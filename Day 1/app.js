@@ -499,16 +499,16 @@
 
          // startsWith();
 
-         let userName = " Halwo";
+         // let userName = " Halwo";
           
-         let result = userName.startsWith(" ");
+         // let result = userName.startsWith(" ");
 
-         if(result){
-              console.log("your username can't begin with ' ' ");
-         }
-         else{
-            console.log(result);
-         }
+         // if(result){
+         //      console.log("your username can't begin with ' ' ");
+         // }
+         // else{
+         //    console.log(result);
+         // }
          
      
 
